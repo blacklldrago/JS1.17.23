@@ -8,7 +8,7 @@
 - ##### A function is declared using the function keyword.
 - ##### The basic rules of naming a function are similar to naming variables. It is better to write a descriptive name for your function
 - ##### The body of function is written within {}.
-![alt text](./declae.png.png)
+![alt text](./declae.png)
 # Funtion-Declaration
 - ###### Variable x is used to store the function. Here the function is treated as an expression. And the function is called using the variable name.
 - ##### The function is called anonymous function.
